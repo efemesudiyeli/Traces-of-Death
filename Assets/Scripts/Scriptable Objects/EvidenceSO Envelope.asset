@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ab1685b7685ea044929e7e03747b0c2, type: 3}
+  m_Name: EvidenceSO Envelope
+  m_EditorClassIdentifier: 
+  evidenceInfo:
+    evidenceName: A letter
+    evidenceDescription: A letter. It says, 'I did something I shouldn't have, I
+      should come to you.'
+    evidenceSprite: {fileID: 21300000, guid: 60dfc0f8f1a9cfe47979f46e66d5f313, type: 3}

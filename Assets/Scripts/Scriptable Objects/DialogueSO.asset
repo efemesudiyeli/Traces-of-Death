@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d20ae9b2d8aeacd488838503ee605984, type: 3}
+  m_Name: DialogueSO
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - lines:
+    - person: Reaper
+      line: Another day, another soul to claim.
+    - person: Reaper
+      line: But today feels different; there's an air of mystery, a lingering question
+        in the universe.
+    - person: Reaper
+      line: For even Death itself cannot resist the allure of a mystery.
+  - lines:
+    - person: GOD
+      line: My child, it is good to see you here one more.
+    - person: GOD
+      line: I know you take pleasure not only in fulfilling the toll of death but
+        also in unraveling mysteries of murder.
+    - person: GOD
+      line: So I present you with three different doors.
+    - person: GOD
+      line: Behind the first door, the first murder awaits you. Another soul awaits
+        in the mortal realm.
+    - person: GOD
+      line: Proceed, Reaper, knowing that unraveling the mysteries behind murder
+        is inherent to your being.
+  - lines:
+    - person: Reaper
+      line: I hate portals.
+    - person: Reaper
+      line: Another scene of chaos. What story does this shattered room hold?
+    - person: Reaper
+      line: The brushstrokes of fate are as unpredictable as ever.
+    - person: Reaper
+      line: I wonder who is the killer. I should check all the evidences of this
+        murder then I should take the soul of this man.
+  - lines:
+    - person: Reaper
+      line: I wrote all of the evidences on my whiteboard.
+  - lines:
+    - person: GOD
+      line: You have successfully gathered the evidence from the first murder. However,
+        this is just the beginning.
+    - person: GOD
+      line: Behind the second gate awaits another mystery for you to unravel. Proceed
+        with caution and maintain balance.
+    - person: GOD
+      line: Go for the second door.
+    - person: Reaper
+      line: Thank you, my lord.
+  - lines:
+    - person: Reaper
+      line: Well, what do we have here?
+    - person: Reaper
+      line: A slain priest, a sanctum tainted with violence. The fabric of life torn
+        asunder once more.
+    - person: Reaper
+      line: Who would dare to extinguish the light of the divine? The whispers of
+        the departed grow louder, urging me to seek justice amidst the shadows.
+  - lines:
+    - person: Reaper
+      line: The pattern emerges, the threads of fate intertwine. Two murders, seemingly
+        unrelated, now reveal a common thread.
+    - person: Reaper
+      line: The probability leans heavily towards a shared hand behind these veils
+        of mortality.
+    - person: Reaper
+      line: It's time to see if the next gate holds the key to this enigma.
+  - lines:
+    - person: GOD
+      line: "Reaper, do you ever find yourself weary of this eternal cycle? The constant
+        dance between life and death, the unraveling of mysteries \u2014 does it
+        ever weigh upon you?"
+    - person: Reaper
+      line: My Lord, the passage of time may be eternal, but the intricacies of mortality
+        keep me engaged. Each soul, each mystery, holds its own story waiting to
+        be unraveled. While the weight of existence can be felt, the pursuit of truth
+        amidst the chaos fuels my purpose.
+  - lines:
+    - person: Reaper
+      line: This place... I've seen it before. In that photograph that I found at
+        previous door.
+    - person: Reaper
+      line: 'A place where warmth and comfort should reign, now tainted with the
+        shadow of death. '
+    - person: Reaper
+      line: 'The baker''s demise, a puzzle waiting to be pieced together. '
+  - lines:
+    - person: Reaper
+      line: After witnessing the Baker murder, I came across a photograph that connected
+        all the dots. It became evident that every murder was interlinked, forming
+        a sinister pattern.
+    - person: Reaper
+      line: I must now seek the God.
+  - lines:
+    - person: GOD
+      line: Reaper, now that you know all the murders are connected, I'm offering
+        you a new door. Can you guess what's behind the door??
+    - person: Reaper
+      line: The killer.
+    - person: GOD
+      line: Correct.
+    - person: Reaper
+      line: I consider asking them why they committed these murders.
+  - lines:
+    - person: Reaper
+      line: Seems like your time has come at last.
+    - person: Killer
+      line: What's going on? Who are you?
+    - person: Reaper
+      line: I'm the one who guides souls to the afterlife. It's time for you to answer
+        for your actions.
+    - person: Killer
+      line: Am I dead? What do you want from me?
+    - person: Reaper
+      line: It's time to unravel the story behind your actions. Speak, for the truth
+        demands to be known.
+    - person: Killer
+      line: Do you want to know the reasons behind my murders?
+    - person: Reaper
+      line: Yes, I want to know everything. Start from the beginning.
+    - person: Killer
+      line: At the art exhibition, I couldn't bear seeing the artist's success. Envy
+        consumed me, and I entered his house with the sole intention of destroying
+        his creations. But when he arrived, I lost control. There seemed to be no
+        other option.
+    - person: Killer
+      line: Later, I reached out to an old friend, a priest, with a letter, seeking
+        redemption. But he humiliated me. It drove me further into madness, and I
+        committed another regretful act. I felt miserable.
+    - person: Killer
+      line: It was all my father's fault. He never loved me. I went to the bakery
+        to confront him, but as usual, he despised me. He claimed he didn't tear
+        up my photo, but I didn't believe him.
+    - person: Killer
+      line: When he saw me crying, he insulted me, said I was acting like a child,
+        and so on. I had had enough.
+    - person: Killer
+      line: Before I knew it, I noticed a cracked spatula in my hand and found him
+        lying on the floor. And that's where I am now.
+    - person: Reaper
+      line: Your tale is one of tragedy and regret. The consequences of your actions
+        weigh heavy on your soul. It's time to face judgment and seek redemption.
+  - lines:
+    - person: Reaper
+      line: Seems like your time has come at last.
+    - person: Killer
+      line: What's going on? Who are you?
+    - person: Reaper
+      line: I'm the one who guides souls to the afterlife. It's time for you to answer
+        for your actions.
+    - person: Killer
+      line: Am I dead? What do you want from me?
+    - person: Reaper
+      line: It's time to unravel the story behind your actions. Speak, for the truth
+        demands to be known.
+    - person: Killer
+      line: Do you want to know the reasons behind my murders?
+    - person: Reaper
+      line: Yes, I want to know everything. Start from the beginning.
+    - person: Killer
+      line: At the art exhibition, I couldn't bear seeing the artist's success. Envy
+        consumed me, and I entered his house with the sole intention of destroying
+        his creations. But when he arrived, I lost control. There seemed to be no
+        other option.
+    - person: Killer
+      line: Later, I reached out to an old friend, a priest, with a letter, seeking
+        redemption. But he humiliated me. It drove me further into madness, and I
+        committed another regretful act. I felt miserable.
+    - person: Killer
+      line: It was all my father's fault. He never loved me. I went to the bakery
+        to confront him, but as usual, he despised me. He claimed he didn't tear
+        up my photo, but I didn't believe him.
+    - person: Killer
+      line: When he saw me crying, he insulted me, said I was acting like a child,
+        and so on. I had had enough.
+    - person: Killer
+      line: Before I knew it, I noticed a cracked spatula in my hand and found him
+        lying on the floor. And that's where I am now.
+    - person: Reaper
+      line: Your tale is one of tragedy and regret. The consequences of your actions
+        weigh heavy on your soul. It's time to face judgment and seek redemption.

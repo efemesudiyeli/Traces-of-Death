@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d20ae9b2d8aeacd488838503ee605984, type: 3}
+  m_Name: DialogueSO Repetetive
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - lines:
+    - person: Reaper
+      line: I think there is no more evidence.
+  - lines:
+    - person: Reaper
+      line: I must gather the soul first before I leave and I want the all evidences.
